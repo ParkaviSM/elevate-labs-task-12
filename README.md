@@ -121,6 +121,10 @@ Business decision-making
 
 📤 Output
 
+<img width="607" height="470" alt="Image" src="https://github.com/user-attachments/assets/37eb8f7c-abf4-49d2-b522-5f0fdcffdd19" />
+
+
+<img width="606" height="410" alt="Image" src="https://github.com/user-attachments/assets/c7e39279-3f0e-48b3-aaf6-c84acf8458ca" />
 
 
 ✅ Elbow Method Plot
